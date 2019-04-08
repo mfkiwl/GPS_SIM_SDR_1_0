@@ -647,6 +647,7 @@ void eph2sbf(const ephem_t eph, const ionoutc_t ionoutc, unsigned long sbf[5][N_
 		sbf[3][7] = 0UL;
 		sbf[3][8] = 0UL;
 		sbf[3][9] = 0UL;
+
 	}
 
 	// Subframe 5, page 25
